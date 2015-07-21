@@ -5,7 +5,12 @@ files.
 
 ## Installation
 
-Installation via a plugin-manager is recommended.
+Installation via a plugin-manager is recommended. With Vundle:
+```
+Plugin 'v-yadli/vim-tsl'
+```
+
+Then invoke `:PluginInstall` to install it.
 
 ## TODO
 
